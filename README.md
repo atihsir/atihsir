@@ -8,7 +8,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/atihsir/atihsir/blob/main/blob/main/assets/me.jpg" alt="Rishita's image" width="250" style="border-radius: 50%; border: 3px solid #6F2DBD;">
+  <img src="https://github.com/atihsir/atihsir/blob/main/blob/main/assets/me1.jpg" alt="Rishita's image" width="250" style="border-radius: 50%; border: 3px solid #6F2DBD;">
 </div>
 
 <p align="center">
